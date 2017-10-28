@@ -1,0 +1,21 @@
+
+git status
+
+//Para registrar cambios (añadirlos al Index) con . es todo el contenido de la carpeta
+git add <filename>
+git add . 
+
+//Para incluir en el HEAD, pero aún no en tu repositorio remoto
+git commit -m "mensaje"
+
+//Para enviar estos cambios a tu repositorio remoto 
+git push origin master
+
+git checkout .
+
+//Para actualizar tu repositorio local al commit más nuevo
+git pull
+
+git mergetool
+
+git merge --abort
