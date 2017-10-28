@@ -1,6 +1,6 @@
-# prueba
-prueba del repositorio
+# FireApp
+Repositorio para FireApp
 ======================
-Descripción: probando como se hace el readme.md
+Descripción: Documentos proyecto intgrador Final de grado
 -----------------------------------------------
 
