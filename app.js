@@ -58,6 +58,7 @@ var TempModel = mongoose.model('Temp', tempSchema);
 //router.get('/', function(req, res) {
 app.get('/', function(req, res) {
    res.send("Bienvenido al servidor de Temperatura");
+	console.log('INDEX')
 });
 //app.use(router);
 
@@ -134,5 +135,5 @@ app.use('/api', rtemps);
 // Inicio el server
 app.listen(3000, function() {
   console.log("Node server corriendo en http://localhost:3000");
-  console.log("o en https://fire-app-luchocardozo86618404.codeanyapp.com/");
+  console.log("o en https://fireapp-luchocardozo86618404.codeanyapp.com/");
 });
