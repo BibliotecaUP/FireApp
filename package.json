@@ -16,13 +16,6 @@
   "author": "Cardozo Luis, Cesarini Martin",
   "license": "ISC",
   "dependencies": {
-    "@angular/common": "^4.4.3",
-    "@angular/compiler": "^4.4.3",
-    "@angular/compiler-cli": "^4.4.3",
-    "@angular/forms": "^4.4.3",
-    "@angular/http": "^4.4.3",
-    "@angular/platform-browser": "^4.4.3",
-    "@angular/platform-browser-dynamic": "^4.4.3",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "ionic-angular": "^3.7.0",
